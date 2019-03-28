@@ -4,10 +4,10 @@ def create_an_empty_array
 end
 
 def create_an_array
-  1 
-  2 
-  3
-  4
+ puts 1 
+  puts 2 
+  puts 3
+ puts  4
   
 end
 
